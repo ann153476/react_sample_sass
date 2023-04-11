@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_sample_sass/static/css/main.189a4a1e.css",
+    "main.js": "/react_sample_sass/static/js/main.b074ee45.js",
+    "index.html": "/react_sample_sass/index.html",
+    "main.189a4a1e.css.map": "/react_sample_sass/static/css/main.189a4a1e.css.map",
+    "main.b074ee45.js.map": "/react_sample_sass/static/js/main.b074ee45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189a4a1e.css",
+    "static/js/main.b074ee45.js"
+  ]
+}
